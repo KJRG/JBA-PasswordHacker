@@ -1,0 +1,16 @@
+content:
+- Avoiding bad comments
+- Bytes basics
+- Creating bytes
+- Socket module
+- Lambda functions
+- Map and filter
+- Custom generators
+- Iterators
+- Itertools module
+- Escape sequences
+- Split and join
+- How to read the documentation
+- Kwargs
+- Json module
+- Time module
